@@ -7,7 +7,7 @@ Chatting with strangers is one of my most notable online experiences and I want 
 
 ## Yahoo! Messenger, hi5 and my fascination with chatting
 
-![logo](images/logo_yahoo_messenger.png)
+![logo](../images/logo_yahoo_messenger.png)
 
 Unlike kids today, I didn't have an internet connection until I was 13.
 I remember I was fascinated with Yahoo! Messenger and with the popular social network in my country at that time, [hi5](https://hi5.com) because it was my first encounter with such applications.
@@ -20,7 +20,7 @@ That was the time when I discovered that internet was full of sad, lonely people
 However, I found a guy on hi5 who would be my friend for years and I was happy about it.
 I was active on hi5 since I got internet until Facebook came along.
 
-![logo](images/logo_hi5.png)
+![logo](../images/logo_hi5.png)
 
 ## Going offline and random chat sites
 
@@ -36,7 +36,7 @@ As I was saying before, in my last two years of high school I stayed mostly offl
 
 However, things changed when I started university.
 
-![illustration](images/illustration_chatting_online.png)
+![illustration](../images/illustration_chatting_online.png)
 
 ## Rejoining the online world and present
 

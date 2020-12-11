@@ -21,7 +21,7 @@ We kept in touch until recently, when some time after he got married, he deleted
 While it's true we haven't talked very much lately, it still hurt that I discovered he deleted me when I tried to contact him.
 But anyway, I will always cherish the memories of my first online friend.
 
-![illustration](images/illustration_birthday_card.png)
+![illustration](../images/illustration_birthday_card.png)
 
 ## Some more friends
 
@@ -47,7 +47,7 @@ He was a nice, open minded guy and I liked that he also had an online relationsh
 I liked listening to part of his life story, mostly because he gave me hope regarding my own relationship and I also admired him for all he has done until now.
 I don't keep in touch with him as much as with the people mentioned previously, but I still enjoy talking to him.
 
-![illustration](images/illustration_online_friends.png)
+![illustration](../images/illustration_online_friends.png)
 
 ## Waiting for new friends
 
@@ -57,4 +57,4 @@ Finding a new friend gives a great joy, because most people online are primarily
 That's the reason why I cherish my online friends even more and I'm always waiting for new ones, just like Wumpus, the Discord mascot.
 To share a connection for a long time with somebody you never met in real life feels awesome and I think everyone should try it.
 
-![illustration](images/illustration_wumpus.png)
+![illustration](../images/illustration_wumpus.png)

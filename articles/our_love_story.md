@@ -21,7 +21,7 @@ However, even if most people were nice, at some point I was beginning to feel fr
 But before doing so, I left some people I liked my contact details to continue chatting in Skype if they wanted.
 Among those people, there was my future boyfriend.
 
-![illustration](images/illustration_sharedlingo.png)
+![illustration](../images/illustration_sharedlingo.png)
 
 Not long after that, I received a message on Skype saying ''Hello this is *[user name]*, I just got back from university.'' I was so amazed he received my message after I deleted my account from sharedlingo, on which we chatted very little.
 But this is how it all got started.
@@ -40,7 +40,7 @@ He was and still is the best friend I've always wished for.
 Since I met him, my health improved and so did my optimism.
 I am inclined to think I couldn't have done it without him through such difficult times.
 
-![illustration](images/illustration_online_love.png)
+![illustration](../images/illustration_online_love.png)
 
 ## The first time we met
 
@@ -56,7 +56,7 @@ And during his first visit everything was so unforgettable from the first kiss a
 I find it funny that, even if my town has a lot to offer, being a touristic attraction, the place he liked the most was a park quite close to home.
 After that, he visited me 3 more times, but that was the best visit from all.
 
-![illustration](images/illustration_hug.png)
+![illustration](../images/illustration_hug.png)
 
 ## And the story goes on
 
