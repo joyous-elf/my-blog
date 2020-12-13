@@ -4,7 +4,7 @@ I'm a 26 years old girl from Romania and I started this blog by writing about di
 
 # Contents
 
-## Personal experience:
+## Personal experiences
 - [About me](articles/about_me.md)
 - [Chatting with strangers online](articles/chatting_with_strangers_online.md)
 - [Online friends](articles/online_friends.md)
