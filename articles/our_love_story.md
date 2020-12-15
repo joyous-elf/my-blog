@@ -5,7 +5,7 @@ I really wanna write about our long distance relationship because it's a big par
 ## How it all started
 
 I remember that after I finished high school I was always trying to practice my English in any way I could, because I didn't want to forget it.
-I was doing it by chatting with strangers on different chating platforms.
+I was doing it by chatting with strangers on different chatting platforms.
 This was not a very good idea because people I met there were looking for different things, which was frustrating for me.
 
 One day at university we had a visit from some German students and, as guests, we had to do joint activities with them.
