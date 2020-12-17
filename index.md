@@ -11,5 +11,10 @@ I'm a girl from Romania and I started this blog by writing about different perio
 - [Our love story](articles/our_love_story.md)
 - [Working remotely](articles/working_remotely.md)
 
+## My hobbies
+- [English my love](articles/english_my_love.md)
+- [Music](articles/music.md)
+- [Movies](articles/movies.md)
+
 ## Digital world
 - [Social media and break ups](articles/social_media_and_break_ups.md)
