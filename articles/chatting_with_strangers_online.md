@@ -30,10 +30,9 @@ After one year however, I decided to close all my online accounts, because I got
 And it turned out to be a good decision, because then I had the best years of my high school life and I was feeling for the first time I was making some real connections with my classmates.
 
 But sometimes, when feeling lonely, I'd still go to random chat sites, because no matter how well I was getting along with some of my classmates, I didn't have a deep connection with anyone and at times I was feeling empty inside because of it.
-However I wouldn't feel  the kind of closeness I was so much longing for until I met my boyfriend when I was 21, but the long wait was worth it.
+However I wouldn't feel the kind of closeness I was so much longing for until I met my boyfriend when I was 21, but the long wait was worth it.
 
 As I was saying before, in my last two years of high school I stayed mostly offline and focused on real life connections.
-
 However, things changed when I started university.
 
 ![illustration](../images/illustration_chatting_online.png)
