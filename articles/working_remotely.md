@@ -22,6 +22,7 @@ I don't wanna bore you with the technical details, but rather I'm going to tell 
 At first I felt stressed and overwhelmed of what I had to do and I could barely sleep at night.
 I was lucky that my boss didn't add to that stress.
 He was actually a nice guy as he was friendly and always paid on time.
+
 I got hired at the end of October 2019 and only in the beginning of January 2020 I started to feel better about my job.
 At that time, I was also given my own channel, on which only I uploaded videos.
 On DataLove all the employees were uploading their videos, so the channel didn't have a homogeneous look.
@@ -29,6 +30,7 @@ So, I was happy to get my own channel.
 My channel is called [DataLove Bar Chart Races](https://www.youtube.com/channel/UC6b4kBQJUCspokKxtRpG38g).
 I am very proud of it, because I've put a lot of work into it.
 My boyfriend has helped me with the data a lot, for which I'm grateful.
+
 Just as the things were starting to get better for me, my boss decided to stop the project entirely, because he realized it won't be profitable.
 In a way, I was relieved because I was very tired but at the same time I was also very sad because I got attached to my work.
 
@@ -41,14 +43,18 @@ From what I heard from a friend, working in the office is better because your co
 
 ## Working as a transcriber
 
-Soon after I lost my job, I was contacted by one of my university teachers who asked if I'd like to help by being a participant in some research, which I was happy to do, because my teachers are nice people.
+Soon after I lost my job, I was contacted by one of my university teachers who asked if I'd like to help him by being a participant in some research, which I was happy to do, because my teachers are nice people.
 I met him at the university and we talked a bit.
 That's how he found out that I have some experience transcribing research interview both from my own research and from volunteering, so he told me he has some interviews he'd pay me to transcribe.
-I was really happy about it, because I enjoy transcribing for the stories I leiaten to while doing so.
+I was really happy about it, because I enjoy transcribing for the stories I listened to while doing so.
+
 But some weeks after that, the pandemic started and he told me he was unsure if in those conditions the university would still pay for my services.
 I was upset but I understood the situation.
-After some time, I started volunteering at 7cups as a translator of the site in my native language.
+
+After some time, I started volunteering at 7cups as a translator of the site into my native language.
 I thought it would be a good experience to see if I'd like to do translations as a job in future.
+It was a total disappointment because I even if I translated most of the site I got no feedback from them.
+
 Surprisingly before Easter, my teacher emailed me to ask if I'm still interested in transcribing the interviews and of course I said yes.
 So I started transcribing at my own pace, which was very nice.
 Everything took me approximatively 2 months and I was honestly enjoying it, at least most of the time.

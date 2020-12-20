@@ -11,12 +11,15 @@ I dedicate this blog post to all my online friends out there, wherever they are.
 After I've had some disappointments regarding some online interactions, when I was 15 years old, I met a guy on the social network called hi5.
 He was very nice to me, without having hidden intentions.
 He didn't talk much, he was a good listener and I was very happy, especially because at that time I had no friends in real life.
+
 I remember that I asked for a gift for my 16th birthday and he really made a birthday card for me, which you can see below.
 I was so happy he cared enough to do it.
 I also learned some things about the Arab culture from him, as he was an Arab.
 That information made me want to know more, so I read two books on the matter.
+
 At some point, when I decided to delete all my accounts, we lost connection for some years, until I was in university and decided to connect with him again though Facebook.
 That was also a very happy moment for me.
+
 We kept in touch until recently, when some time after he got married, he deleted me from friends.
 While it's true we haven't talked very much lately, it still hurt that I discovered he deleted me when I tried to contact him.
 But anyway, I will always cherish the memories of my first online friend.
@@ -36,6 +39,7 @@ And to be honest, how can I not like a person who expresses in English so well.
 Then, when my grandma died, I was feeling devastated and I heard from my boyfriend that there is a website called [7cups](https://www.7cups.com/), where you can talk to nice strangers if you have some problem and you need someone to listen to you, so I made an account but for some reason I encountered some error and couldn't connect with anyone.
 So, I started looking for similar sites and I found [blahtherapy](https://blahtherapy.com/).
 At first, it didn't seem like a good choice because people weren't understanding and considerate, until I met my future friend.
+
 He's been a very good friend, he has always encouraged me.
 I've learned a lot from him about the society he lives in, about optimism and open-mindedness.
 I feel that he never judges me, so I can tell him anything.

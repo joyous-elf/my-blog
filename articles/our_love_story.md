@@ -14,9 +14,11 @@ Many of the German students spoke so well, or it seemed to me so at the time, th
 
 Then I was a second year sociology student and for the first time I started to think about the problem like a researcher.
 I understood that, maybe if I narrow down my search for chats I may succeed in my goal of practicing English, so I wasn't looking just for chat sites, but for language exchange sites, which was a game changer for me.
+
 After some searching, I found a site named *sharedlingo.com*, which unfortunately doesn't exist anymore.
 There I met a lot of nice, highly educated and also polite people willing to practice all sorts of languages.
 I used to chat there and if I liked them I'd share my Skype contact details to try to talk to them, which can be extremely awkward with strangers.
+
 However, even if most people were nice, at some point I was beginning to feel frustrated because I couldn't make meaningful, lasting connections and I decided to delete my account.
 But before doing so, I left some people I liked my contact details to continue chatting in Skype if they wanted.
 Among those people, there was my future boyfriend.
@@ -52,6 +54,7 @@ By then, we were already finished with university work.
 After almost 11 months since that first message in Skype, we finally met.
 I remember I had to meet him in a frontier town, far from mine and I told him I can't come there alone because of my disability and that mom would have to come with me but he didn't mind.
 I was so happy that he accepted me the way I was.
+
 And during his first visit everything was so unforgettable from the first kiss and first night in a random hotel from a city far away to spending time with him at home or visiting places in my town.
 I find it funny that, even if my town has a lot to offer, being a touristic attraction, the place he liked the most was a park quite close to home.
 After that, he visited me 3 more times, but that was the best visit from all.

@@ -9,12 +9,12 @@ I wanna tell you how my relationship with the language developed during the year
 My first encounter with English happened in the first grade when I was 7.
 I remember I used to hate English because we had a bad teacher, the worst I have ever had.
 We were all scared of her, it was a nightmare and it lasted for 8 whole years.
+
 During this time, I needed a tutor because my teacher, besides scaring us, didn't explain grammar well.
-I think I was 10 or so when mom decided I needed a tutor and she wanted my teacher from school to be my tutor.
+I think I was 10 or so when mom decided I needed help with English and she wanted my teacher from school to be my tutor.
 It scared me but I didn't tell mom this, I don't know why.
 Luckily, she had too many students so she recommended us another teacher who turned out to be amazing.
 Since then, I began to change my opinion about English, because of my tutor.
-Only when I was about 14, I understood that my school teacher of English was not so bright and from that moment on I wasn't so scared of her anymore.
 
 ![illustration](../images/illustration_love_english_1.png)
 
