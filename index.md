@@ -9,7 +9,9 @@ I'm a girl from Romania and I started this blog by writing about different perio
 - [Chatting with strangers online](articles/chatting_with_strangers_online.md)
 - [Online friends](articles/online_friends.md)
 - [Our love story](articles/our_love_story.md)
+- [Useful apps for a long distance relationship](articles/useful_apps_for_a_ldr.md)
 - [Working remotely](articles/working_remotely.md)
+- [My offline realtionships](articles/my_offline_relationships.md)
 
 ## My hobbies
 - [English my love](articles/english_my_love.md)
