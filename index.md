@@ -19,3 +19,4 @@ I'm a girl from Romania and I started this blog by writing about different perio
 
 ## Digital world
 - [Social media and break ups](articles/social_media_and_break_ups.md)
+- [Digital wellbeing](articles/digital_wellbeing.md)
