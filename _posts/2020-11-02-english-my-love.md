@@ -1,4 +1,9 @@
-# English my love
+---
+layout: post
+title: English
+author: Joyous Elf
+category: Hobbies
+---
 
 Have you ever liked doing something so much that you felt you can't live without it?
 Practicing English is not just a hobby for me, it's a passion because I just can't do without it on a daily basis.
@@ -16,7 +21,7 @@ It scared me but I didn't tell mom this, I don't know why.
 Luckily, she had too many students so she recommended us another teacher who turned out to be amazing.
 Since then, I began to change my opinion about English, because of my tutor.
 
-![illustration](../images/illustration_love_english_1.png)
+![illustration]({{site.baseurl}}/assets/images/illustration_love_english_1.png)
 
 ## High school specialization choice
 
@@ -30,7 +35,7 @@ I think the main reason why I love English in the first place is because it remi
 That's part of the reason why I sought to maintain my level of English, because if I forgot the language, I'd feel like loosing a part of my most precious memories related to my teen years.
 This feeling is quite difficult to explain.
 
-![illustration](../images/illustration_english_book_cover.png)
+![illustration]({{site.baseurl}}/assets/images/illustration_english_book_cover.png)
 
 ## Practicing the language
 
@@ -41,4 +46,4 @@ And I've been chatting and also speaking in English with him ever since, and it 
 I feel so lucky I get to practice English every day with the one that I love.
 I think this made me love the language even more.
 
-![illustration](../images/illustration_love_english_2.png)
+![illustration]({{site.baseurl}}/assets/images/illustration_love_english_2.png)

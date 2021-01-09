@@ -1,10 +1,15 @@
-# Digital privacy and security
+---
+layout: post
+title: Privacy and Security Online
+author: Joyous Elf
+category: Digital World
+---
 
-I've known for a long time that online security is important but only recently I've found out how important privacy also is. It all started with my boyfriend always nagging me about it until I understood that protecting your privacy means protecting your freedom. He recommended me a course about it on youtube and I learned a lot from it. Hopefully I can convince you how important privacy and security are and you will take interest in the course too. I know that people's time is limited but this course is really worth it because privacy and security are fundamental human rights.
+People should be more aware of how to be more secure and at the same time protect their personal data online. Privacy and security are fundamental human rights and we must fight for them. Many well known apps invade our privacy, just see the new [WhatsApp privacy policy controversy.](https://www.trustedreviews.com/news/whatsapp-gives-users-ultimatum-share-data-with-facebook-or-lose-access-4117377) If you are looking for alternatives to the apps that invade your privacy, in this post I will recommend a course which will teach you about those and much more about privacy and security.
 
 ## The importance of privacy and security
 
-Our online personal data is used can be used for:
+Our online personal data can be used for:
 - market manipulation, when our data leaks at some companies that keep calling/emailing us for advertising themselves
 - identity theft
 - personal stalking

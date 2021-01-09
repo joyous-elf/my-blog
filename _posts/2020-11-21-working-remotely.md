@@ -1,4 +1,9 @@
-# Working remotely
+---
+layout: post
+title: Working Remotely
+author: Joyous Elf
+category: Personal Experiences
+---
 
 Since the 2020 pandemic started, many people began to work remotely.
 All my jobs so far were remote, even before the pandemic, because I have a disability that limits my movements.
@@ -16,7 +21,7 @@ This job proved to be much more difficult than I thought because I didn't only h
 However, putting large amounts of data together from different sources in a specific format was the most difficult thing I had to do.
 I was lucky that my boyfriend helped me a lot, morally and technically.
 
-![logo](../images/logo_datalove.png)
+![logo]({{site.baseurl}}/assets/images/logo_datalove.png)
 
 I don't wanna bore you with the technical details, but rather I'm going to tell you how it felt for me to work like this.
 At first I felt stressed and overwhelmed of what I had to do and I could barely sleep at night.
@@ -34,7 +39,7 @@ My boyfriend has helped me with the data a lot, for which I'm grateful.
 Just as the things were starting to get better for me, my boss decided to stop the project entirely, because he realized it won't be profitable.
 In a way, I was relieved because I was very tired but at the same time I was also very sad because I got attached to my work.
 
-![logo](../images/logo_datalove_bar_chart_races.png)
+![logo]({{site.baseurl}}/assets/images/logo_datalove_bar_chart_races.png)
 
 On this 3 months job I realized working from home can be very stressful and tiring because you are alone, and you have to solve everything by yourself, or at least this is how my job was.
 I also felt very lonely, but I was lucky to have my boyfriend who'd always be there for me.
@@ -60,7 +65,7 @@ So I started transcribing at my own pace, which was very nice.
 Everything took me approximatively 2 months and I was honestly enjoying it, at least most of the time.
 With this occasion I found out that maybe I'd be happier with a part time job.
 
-![illustration](../images/illustration_transcribing.png)
+![illustration]({{site.baseurl}}/assets/images/illustration_transcribing.png)
 
 ## Searching for a new job
 

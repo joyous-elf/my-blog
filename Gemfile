@@ -1,10 +1,7 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 3.9"
+gem "minima", "~> 2.5"
+gem "kramdown-parser-gfm", "~> 1.1"
 
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo"
-  gem "tzinfo-data"
-end
-
-gem "wdm", :platforms => [:mingw, :x64_mingw, :mswin]
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

@@ -1,4 +1,9 @@
-#   My offline relationships
+---
+layout: post
+title: My offline relationships
+author: Joyous Elf
+category: Personal Experiences
+---
 
 I wanna talk about the my relationships over the years and I will focus on different periods of my life and on different groups I have been part of.
 

@@ -1,4 +1,9 @@
-# Digital wellbeing
+---
+layout: post
+title: Digital Wellbeing
+author: Joyous Elf
+category: Digital World
+---
 
 Have you ever felt dependent on your phone but you didn't really know what to do to reduce your screen time? Then you've come to the right place. I'll explain the concept of digital wellbeing and give you tips on how to have a healthier relationship with your phone.
 

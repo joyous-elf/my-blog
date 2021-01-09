@@ -1,4 +1,9 @@
-# Social media and break ups
+---
+layout: post
+title: Social Media and Breakups
+author: Joyous Elf
+category: Digital World
+---
 
 In this blog post I'm gonna tackle the problems associated with break ups in today's world dominated by technology and social media.
 I don't have a personal experience related to this and in fact I have never broken up with somebody before but I'd still like to address this issue.
