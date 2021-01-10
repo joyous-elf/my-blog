@@ -35,6 +35,6 @@ To get an insight into privacy and security and also improve it, I recommend you
 
 ## Advocate for privacy and normalize it
 
-This course convinced to advocate for privacy and security, meaning I wanna share what I've learned about them, starting with this course and I invite you to do the same. Hoping that it sparked your interest, please share it with your friends. If more and more people learn about privacy and security we will have a more private and secure world.
+This course convinced me to advocate for privacy and security, meaning I wanna share what I've learned about them, starting with this course and I invite you to do the same. Hoping that it sparked your interest, please share it with your friends. If more and more people learn about privacy and security we will have a more private and secure world.
 
 And the last thing I wanna tell you is to normalize privacy. People usually associate online privacy with criminal activity, which should change  because "you may have nothing to hide, but everything to protect" as Mikko Hypponen, a security expert said. Privacy is a fundamental human right and it's related to our freedom.

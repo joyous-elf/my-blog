@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My offline relationships
+title: My Offline Relationships
 author: Joyous Elf
 category: Personal Experiences
 ---
