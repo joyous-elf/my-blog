@@ -27,7 +27,7 @@ So it's important to protect your privacy and implement better security (Go Inco
 To get an insight into privacy and security and also improve it, I recommend you [Go Incognito](https://www.youtube.com/watch?v=jGR8_BcXIgw&list=PL3KeV6Ui_4CayDGHw64OFXEPHgXLkrtJO) by [Techlore](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg) because:
 - it's free to watch
 - every video is short (3-11 min) so you can watch whenever you have time without feeling burdened by long videos
-- quite easy to understand (Motto: `Privacy and security to the masses`)
+- quite easy to understand (Motto: ''Privacy and security to the masses'')
 - the basics are easy to implement (sections 1-3)
 - goes beyond online privacy and security showing that offline privacy and security are also important (section 6)
 - the channel has a [website](https://techlore.tech/) with a lot of resources
@@ -38,3 +38,9 @@ To get an insight into privacy and security and also improve it, I recommend you
 This course convinced me to advocate for privacy and security, meaning I wanna share what I've learned about them, starting with this course and I invite you to do the same. Hoping that it sparked your interest, please share it with your friends. If more and more people learn about privacy and security we will have a more private and secure world.
 
 And the last thing I wanna tell you is to normalize privacy. People usually associate online privacy with criminal activity, which should change  because "you may have nothing to hide, but everything to protect" as Mikko Hypponen, a security expert said. Privacy is a fundamental human right and it's related to our freedom.
+
+Useful links:
+- [The course Go Incognito: A Guide to Security, Privacy and Anonimity](https://www.youtube.com/watch?v=jGR8_BcXIgw&list=PL3KeV6Ui_4CayDGHw64OFXEPHgXLkrtJO)
+- [Official Techlore website](https://techlore.tech/)
+- [Techlore privacy and security checkup quiz](https://techlore.tech/spa.html)
+
