@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lonliness and isolation
+title: Loneliness and isolation
 author: Joyous Elf
 category: Personal Experiences
 ---
