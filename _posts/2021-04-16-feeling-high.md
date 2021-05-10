@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feeling high
+title: Feeling High
 author: Joyous Elf, inspired by A.
 category: Personal Experiences
 ---

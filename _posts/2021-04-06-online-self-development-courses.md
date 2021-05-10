@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online self development courses
+title: Online Self Development Courses
 author: Joyous Elf
 category: Personal Experiences
 ---
