@@ -6,7 +6,7 @@ category: Personal Experiences
 ---
 ## Dealing with anxiety
 
-Most of my life I've been suffering from anxiety, so I decided to do something about it because sometimes it's just too much. I'm writing this post hoping to give people ideas about what they can do if they are constantly anxious. It will be published in two parts and in this one I will focus on the more formal approaches to anxiety that I've learned from specialists. In this regard, I took several free online courses and I will present you some aspects from one of them in particular. It was the best one for me in training resilience skills.
+Most of my life I've been suffering from anxiety, so I decided to do something about it because sometimes it's just too much. I'm writing this post hoping to give people ideas about what they can do if they are constantly anxious. It will be published in two parts and in this one I will talk about the more formal approaches to anxiety that I've learned from specialists. I took several free online courses and I will present you some aspects from one of them in particular. It was the best one for me in training resilience skills.
 
 ## Reducing anxiety through formal training
 
@@ -30,11 +30,16 @@ I want to point out that this exercise helped me a bit only when I was anticipat
 
 ### Deliberate breathing
 
-**Breathing exercises** help me relax and reduce my anxiety. I do such exercises every morning for 10 minutes with the help of an alarm to remind me and an app called [Breathly](https://breathly.app/) to guide me. What is cool about this app, besides being free and open source, is the fact that you can set your custom breathing exercise according to your needs. I personally breath in for 5 seconds and then breath out for other 5 seconds, as the course suggests.
+**Breathing exercises** help me relax and reduce my anxiety. I do such exercises every morning for 10 minutes with the help of an alarm to remind me and an app called [Breathly](https://breathly.app/) to guide me. What is cool about this app, besides being free and open source, is the fact that you can set your custom breathing exercise according to your needs. I personally breathe in for 5 seconds and then breathe out for other 5 seconds, as the course suggests.
 
 ### Gratitude practice
 
-**Gratitude** is a positive emotion which increases happiness and decreases depression. It leads to a more helping behavior and to stronger spirituality. Practicing gratitude is not specifically for designed for reducing anxiety but for improving well being in general and it has helped me. I personally practice it every night before sleep by thinking of 3 good things that happened to me during the day. This exercise is called **The 3 good things** or **Hunt for the good stuff**. You can also write those 3 things down. Setting an alarm to remind you about it is important because you should do such the exercise daily until it becomes a good routine and you will do it without even realizing it.
+**Gratitude** is a positive emotion which increases happiness and decreases depression. It leads to a more helping behavior and to stronger spirituality. Practicing gratitude is not specifically designed for reducing anxiety but for improving well being in general. I practice it daily and it has helped me.
+
+**So how can you practice gratitude?**
+
+Practice it every night before sleep by thinking of 3 good things that happened to you during the day. Alternatively, you can either say out loud or write those 3 things down. Setting up a reminder about it is important because you should do such the exercise daily until it becomes a good habit, and you will do it without even realizing it.
+
 
 ## Try it yourself!
 
