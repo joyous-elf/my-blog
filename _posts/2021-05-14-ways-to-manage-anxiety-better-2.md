@@ -6,7 +6,7 @@ category: Personal Experiences
 ---
 ## Dealing with anxiety from experience
 
-This is the second part of 'Ways to manage anxiety better' in which I wanna talk about the informal ways I'm dealing with anxiety. When I say informal I mean that I have learned them from experience and not through formal training, because experience is a great teacher. I hope that this will be useful to those of you suffering from anxiety.
+This is the second part of _Ways to manage anxiety better_ in which I wanna talk about the informal ways I'm dealing with this issue. When I say informal I mean what I have learned from experience and not through formal training, because experience is a great teacher. I hope that this will be useful to those of you suffering from anxiety.
 
 ## Talking about it to someone
 
@@ -22,7 +22,7 @@ My advice is to try talking to your optimistic friends when you are very anxious
 
 ### Chatting to strangers online
 
-Chatting to strangers online can be helpful for me when I don't wanna exhaust my boyfriend and my friends. I do it on a website called [7cups](https://www.7cups.com/). There are volunteers there just to listen to you, but you must remember they aren't professionals. Because of this it may take a long time to find a good listener, but if you are patient and understanding, you will surely find someone suitable for you.
+Chatting to strangers online can be helpful for me when I don't wanna exhaust my boyfriend and my friends. I do it on a website called [7cups](https://www.7cups.com/). There are volunteers there just to listen to you, but you must remember they aren't professionals. Because of this, it may take a long time to find a good listener, but if you are patient and understanding, you will surely find someone suitable for you.
 
 ![logo 7cups]({{site.baseurl}}/assets/images/logo_7cups.png)
 
