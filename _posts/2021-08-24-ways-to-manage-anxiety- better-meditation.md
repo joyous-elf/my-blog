@@ -7,7 +7,7 @@ category: Personal Experiences
 
 ## My journey to manage anxiety
 
-I am a very anxious person and thus I am always trying to find ways to control this better so I can improve my well-being and I want to share my experiences with you in hope that it will inspire or even maybe help some of you who are in need of something like this. I have started telling you about my journey when I took a formal training for reducing anxiety about which I wrote in a [previous post](2021-05-10-ways-to-manage-anxiety-better-1.md). Now I wish to continue what I have started there and tell you about an other way which helps me with my anxiety: mindfulness meditation.
+I am a very anxious person and thus I am always trying to find ways to control this better so I can improve my well-being and I want to share my experiences with you in hope that it will inspire or even maybe help some of you who are in need of something like this. I have started telling you about my journey when I took a formal training for reducing anxiety about which I wrote in a [previous post](https://joyous-elf.github.io/my-blog/personal%20experiences/2021/05/10/ways-to-manage-anxiety-better-1.html). Now I wish to continue what I have started there and tell you about an other way which helps me with my anxiety: mindfulness meditation.
 
 ## Mindfulness meditation
 
