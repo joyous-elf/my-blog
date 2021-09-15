@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ways to Manage Anxiety Better (II)
+title: Ways to Manage Anxiety Better - Personal Experience
 author: Joyous Elf
 category: Personal Experiences
 ---
