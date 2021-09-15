@@ -1,6 +1,6 @@
 ---
 layout: post
-title: English
+title: Hobbies - English
 author: Joyous Elf
 category: Hobbies
 ---
