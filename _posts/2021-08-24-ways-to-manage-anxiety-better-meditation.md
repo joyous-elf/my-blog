@@ -7,16 +7,16 @@ category: Personal Experiences
 
 ## My journey to manage anxiety
 
-I am a very anxious person and thus I am always trying to find ways to control this better so I can improve my well-being and I want to share my experiences with you in hope that it will inspire or even maybe help some of you who are in need of something like this. I have started telling you about my journey when I took a formal training for reducing anxiety about which I wrote in a [previous post](https://joyous-elf.github.io/my-blog/personal%20experiences/2021/05/10/ways-to-manage-anxiety-better-1.html). Now I wish to continue what I have started there and tell you about an other way which helps me with my anxiety: mindfulness meditation.
+I am a very anxious person and therefore I am always trying to find ways to control this better so I can improve my well-being and I want to share my experiences with you in hope that it will inspire or even maybe help some of you who are in need of something like this. I have started telling you about my journey when I took a formal training for reducing anxiety about which I wrote in a [previous post](https://joyous-elf.github.io/my-blog/personal%20experiences/2021/05/10/ways-to-manage-anxiety-better-1.html). Now I wish to continue what I have started there and tell you about another way which helps me with my anxiety: mindfulness meditation.
 
 ## Mindfulness meditation
 
 
-I started asking myself about mindfulness because it was mentioned in all the well-being courses I have ever taken but none of it explained the concept clearly for me so I took a course called [De-Mystyfying Mindfulness](https://www.coursera.org/learn/mindfulness). This course gave me both some theoretical framework for mindfulness meditation and some help in its practice on a daily bases. Right now for me mindfulness means to pay attention to the things I do automatically like breathing. And this helps me relax sometimes especially when I feel bad. I try to practice it every day regardless of how I feel because it is important to keep it as a habit.
+I started asking myself about mindfulness because it was mentioned in all the well-being courses I have ever taken but none of them explained the concept clearly for me so I took a course called [De-Mystyfying Mindfulness](https://www.coursera.org/learn/mindfulness). This course gave me both some theoretical framework for mindfulness meditation and a bit of help in its practice on a daily basis. Right now for me mindfulness means to pay attention to the things I do automatically like breathing. And this helps me relax sometimes especially when I feel bad. I try to practice it every day regardless of how I feel because it is important to keep it as a habit.
 
 ## Types of meditations I practice
 
-The type of meditation I practice is called guided meditation meaning that someone on a recording guides you through the process which helps me a lot. Here are the types of meditations I keep on practicing to this day:
+The type of meditation I practice is called guided meditation, meaning that someone on a recording guides you through the process which can help a lot. Here are the types of meditations I keep on practicing to this day:
 
 ### Breath and body 
 
