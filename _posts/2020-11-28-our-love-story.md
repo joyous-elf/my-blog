@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Love Story
+title: Our Love Story (ended)
 author: Joyous Elf
 category: Personal Experiences
 ---
@@ -74,3 +74,7 @@ We have a romance based on a solid friendship.
 We have been together for more than 4 years now and we continue fighting for our relationship, hoping to bring it offline for an indefinite period of time.
 Unfortunately, because of the 2020 pandemic we aren't able to see each other for now, but we are trying to stay strong.
 I owe to my boyfriend writing this blog, because he strongly supported me in doing so and I love him very much for it and for everything else he's doing for me.
+
+## The story ends
+
+As of late February 2022 the story ended and it's too painful to talk about it.
