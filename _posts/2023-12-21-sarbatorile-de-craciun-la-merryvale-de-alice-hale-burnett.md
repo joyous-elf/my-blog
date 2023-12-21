@@ -2,7 +2,7 @@
 layout: post
 title: Sărbătorile de Crăciun la Merryvale de Alice Hale Burnett
 author: Ioana Dobre
-category: Personal experiences
+category: Hobbies
 ---
 ## Prima mea carte tradusă
 
