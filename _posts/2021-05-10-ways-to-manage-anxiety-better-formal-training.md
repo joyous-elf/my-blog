@@ -4,8 +4,6 @@ title: Ways to Manage Anxiety Better - Formal Training
 author: Joyous Elf
 category: Personal Experiences
 ---
-## Dealing with anxiety
-
 Most of my life I've been suffering from anxiety, so I decided to do something about it because sometimes it's just too much. I'm writing this post hoping to give people ideas about what they can do if they are constantly anxious. It will be published in two parts and in this one I will talk about the more formal approaches to anxiety that I've learned from specialists. I took several free online courses and I will present you some aspects from one of them in particular. It was the best one for me in training resilience skills.
 
 ## Reducing anxiety through formal training
