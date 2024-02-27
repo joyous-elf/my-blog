@@ -4,7 +4,7 @@ title: Ways to Manage Anxiety Better - Personal Experience
 author: Joyous Elf
 category: Personal Experiences
 ---
-This is the second part of _Ways to manage anxiety better_ in which I wanna talk about the informal ways I'm dealing with this issue. By informal I mean learned from experience and not through formal training because experience is a great teacher. I hope that this will be useful to those of you suffering from anxiety.
+This is the second part of _Ways to manage anxiety better_, in which I wanna talk about the informal ways I'm dealing with this issue. By informal I mean learned from experience and not through formal training because experience is a great teacher. I hope that this will be useful to those of you suffering from anxiety.
 
 ## Talking about it to someone
 
