@@ -4,7 +4,7 @@ title: Privacy and Security Online
 author: Joyous Elf
 category: Digital World
 ---
-Privacy and security are fundamental human rights and we must be aware of them to be able to fight for them. Many well known apps invade our privacy. If you are looking for alternatives to the apps that invade your privacy, in this post I will recommend a course which will teach you about those and much more about privacy and security.
+Privacy and security are fundamental human rights of which we must be aware, so we can fight for them. If you are looking for alternatives to the well known apps that invade your privacy, in this post I will recommend a course which will teach you about those and much more about privacy and security.
 
 ## The importance of privacy and security
 
