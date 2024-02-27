@@ -1,10 +1,10 @@
-title: Ioana's Blog
+title: Joyous Elf's Blog
 
-author: Ioana
+author: Joyous Elf
 
 description: Join me on a journey of self-improvment
 
-show_excerpts: false
+show_excerpts: true
 
 minima:
   date_format: "%b %-d, %Y"
