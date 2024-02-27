@@ -4,9 +4,6 @@ title: Ways to Manage Anxiety Better - Meditation
 author: Joyous Elf
 category: Personal Experiences
 ---
-
-## My journey to manage anxiety
-
 I am a very anxious person which is why I am always trying to find new ways to manage my anxiety. Managing my anxiety would help me improve my well-being. I would like to share my experiences with you hoping that you will be inspired to take action to improve your own life. I have started telling you about my journey when I took a formal training for reducing anxiety about which I wrote in a [previous post](https://joyous-elf.github.io/my-blog/personal%20experiences/2021/05/10/ways-to-manage-anxiety-better-formal-training.html). Now I wish to continue what I have started there and tell you about another way which helps me with my anxiety: mindfulness meditation.
 
 ## Mindfulness meditation
